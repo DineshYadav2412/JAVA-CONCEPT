@@ -1,7 +1,7 @@
 //  Example :-  Input A -----> 65
 
 
-package Java;
+// package Java;
 
 import java.util.Scanner;
 
