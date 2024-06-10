@@ -1,0 +1,18 @@
+============> Car Showroom Management Project <=============
+
+We will Keep Three Main Class :- 
+
+1) First is ==> Showroom
+2) Second is ==> Employee
+3) Third is ==> Cars
+4) Interface ==> utility
+
+
+---------------------------------
+
+--> Add Showroom
+--> Add Employee
+--> Add Cars
+--> Get Showroom
+--> Get Employee
+--> Get Cars
